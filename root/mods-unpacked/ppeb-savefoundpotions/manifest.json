@@ -1,0 +1,28 @@
+{
+	"name": "savefoundpotions",
+	"namespace": "ppeb",
+	"version_number": "0.0.1",
+	"description": "Keep your discovered potions between runs.",
+	"website_url": "https://github.com/ppebb/dobad-mods",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": [
+				"ppeb"
+			],
+			"optional_dependencies": [],
+			"compatible_game_version": [
+				"1.0.2"
+			],
+			"compatible_mod_loader_version": [
+				"6.3.0"
+			],
+			"incompatibilities": [],
+			"load_before": [],
+			"tags": [],
+			"config_schema": {},
+			"description_rich": "",
+			"image": null
+		}
+	}
+}
